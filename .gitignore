@@ -1,0 +1,24 @@
+# Secrets
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+backend/venv/
+backend/medrush.db
+backend/ml_models/*.joblib
+backend/datasets/*.csv
+.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

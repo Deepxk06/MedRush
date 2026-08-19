@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+medrush.db
+ml_models/*.joblib
+datasets/*.csv
+.pytest_cache/
